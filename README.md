@@ -1,5 +1,13 @@
 # 💫 About Me:
-💬 My name is Raghav \ Bene. I am a frontend developer from North India. I am currently a Post Graduate Student.<br>🔭 I’m currently working on The Odin Project, where I am learning about minute details of Web Development<br>🌱 I’m currently learning ReactJS and Next.js. My main goal is to be proficient in JS Frameworks such as Vue and React and CSS frameworks such as Tailwind<br><br>
+- 🔭 I’m currently working on [Odin Projects List](https://odinprojects-bene.vercel.app/)
+
+- 🌱 I’m currently learning **Reactjs, Vuejs, Nextjs, Bootstrap, Tailwind and maybe Bulma**
+
+- 👨‍💻 All of my projects are available at [https://github.com/bene-volent](https://github.com/bene-volent)
+
+- 📫 How to reach me **benevolent733@gmail.com**
+
+- ⚡ Fun fact **I am stressed**
 
 
 ## 🌐 Socials:
