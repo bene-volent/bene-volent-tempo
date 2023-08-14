@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Typewolf&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+am+Raghav;I+also+go+by+Bene;I+am+a+Frontend+Developer+%F0%9F%8C%90" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Typewolf&center=true&vCenter=true&lines=Hi+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+am+Raghav;I+also+go+by+Bene;I+am+a+Frontend+Developer+%F0%9F%8C%90" alt="Typing SVG" /></a>
 ---
 # 💫 About Me:
 - 🔭 I’m currently working on [Odin Projects List](https://odinprojects-bene.vercel.app/)
